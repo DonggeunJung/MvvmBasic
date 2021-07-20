@@ -2,10 +2,10 @@
 [Android] Simple MVVM design pattern example - Kotlin, ViewModel, LiveData, Observer, Room, Repository, Dependency Injection
 
 
-[Image1 : Quote list - Quote & Author]
+[Image1 : Main Activity - Quote list]
 
 <div>
-<img src="https://github.com/DonggeunJung/MvvmBasic/blob/main/MvvmBasic_ScreenShot_01.png?raw=true?raw=true width="400px"></img>
+<img src="https://github.com/DonggeunJung/MvvmBasic/blob/main/MvvmBasic_ScreenShot_01.png?raw=true?raw=true width="240px"></img>
 </div>
 
 
